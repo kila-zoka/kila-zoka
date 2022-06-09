@@ -1,3 +1,8 @@
+ 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/9mSxIJ5qFtpv4n8DRC/giphy.gif" width="100"/>
+</div>
+
  Hi there 👋
 
 - 🔭 I’m currently working on openCV using python.
