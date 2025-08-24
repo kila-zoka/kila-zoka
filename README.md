@@ -5,8 +5,7 @@
 
  Hi there 👋
 
-- 🔭 I’m currently working on openCV using python.
-- 🌱 I’m currently learning Computer Vision and Unity.
+- 🔭 I’m currently working on python projects.
 - 👯 I’m looking to collaborate on mini projects on python.
 - 🤔 I’m looking for help with learning game development.
 - 💬 Ask me about Programming, digital and traditional art, space science, phyics and science related.
